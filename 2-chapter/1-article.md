@@ -10,5 +10,5 @@ public static Boolean valueOf(boolean b) {
 
 注意，静态工厂方法与设计模式 [ Gamma95 ] 中的工厂方法（Factory Method）模式不同，本条目中所指的静态工厂方法不直接对应于设计模式（Design Pettern）中的工厂方法。
 
-
+如果不通过公有的构造器
 
