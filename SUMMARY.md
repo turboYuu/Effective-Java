@@ -13,4 +13,5 @@
     * [第9条 try-with-resources 优先于 try-finally](2-chapter/9-article.md)
 * [第 3 章 对于所有的对象都通用的方法](3-chapter/README.md)
     * [第10条 覆盖 equals 时请遵守通用约定](3-chapter/10-article.md)
+    * [第11条 覆盖 equals 时总要覆盖 hashCode](3-chapter/11-article.md)
 
