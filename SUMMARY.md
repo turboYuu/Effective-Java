@@ -14,4 +14,5 @@
 * [第 3 章 对于所有的对象都通用的方法](3-chapter/README.md)
     * [第10条 覆盖 equals 时请遵守通用约定](3-chapter/10-article.md)
     * [第11条 覆盖 equals 时总要覆盖 hashCode](3-chapter/11-article.md)
+    * [第12章 始终要覆盖toString](3-chapter/12-article.md)
 
