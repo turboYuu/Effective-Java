@@ -15,9 +15,9 @@
     * [第10条 覆盖 equals 时请遵守通用约定](3-chapter/10-article.md)
     * [第11条 覆盖 equals 时总要覆盖 hashCode](3-chapter/11-article.md)
     * [第12条 始终要覆盖toString](3-chapter/12-article.md)
-    * [第13条 谨慎的覆盖 clone](3-chapter/13-Override clone judiciously.md)
-    * [第14条 考虑实现 comparable 接口](3-chapter/14-Consider implementing Comparable.md)
+    * [第13条 谨慎的覆盖 clone](3-chapter/13-Override-clone-judiciously.md)
+    * [第14条 考虑实现 comparable 接口](3-chapter/14-Consider-implementing-Comparable.md)
 * [第 4 章 类和接口](4-chapter/README.md)
-    * [第15条 使用和成员的可访问性最小化](4-chapter/15-Minimize the accessibility of class and members.md)
-    * [第16条 要在公有类而非公有域中使用访问方法](4-chapter/16-In public classes use accessor method not public fields.md)
+    * [第15条 使用和成员的可访问性最小化](4-chapter/15-Minimize-the-accessibility_of_class_and_members.md)
+    * [第16条 要在公有类而非公有域中使用访问方法](4-chapter/16-In_public_classes_use_accessor_method_not_public_fields.md)
 
